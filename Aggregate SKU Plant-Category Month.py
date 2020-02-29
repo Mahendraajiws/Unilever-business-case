@@ -93,7 +93,6 @@ Pivot
 Pivot.to_excel("E:\Mahendra\INTERNSHIP\Aggregate-Category Plant.xlsx") 
 
 
-# In[ ]:
 
 
 
